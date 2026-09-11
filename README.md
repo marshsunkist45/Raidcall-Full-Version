@@ -237,3 +237,6 @@ This repository serves as the official landing page for RaidCall. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of RaidCall today!**
+
+---
+**Last updated:** 2026-09-11 05:22:05 UTC
