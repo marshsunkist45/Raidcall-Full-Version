@@ -239,4 +239,4 @@ This repository serves as the official landing page for RaidCall. The software i
 **Get the most recent version of RaidCall today!**
 
 ---
-**Last updated:** 2026-09-11 20:20:25 UTC
+**Last updated:** 2026-09-11 22:50:41 UTC
